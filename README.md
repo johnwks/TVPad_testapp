@@ -1,6 +1,5 @@
-tvpad test app
-===========
-
+# tvpad test app
+```
 First App for TVPad2.
 
 Runs script.sh from $CWD (which should be /program/xxxxxxxxxx).
